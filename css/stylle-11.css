@@ -1,0 +1,38 @@
+body{
+    background:#FFF;
+    font:normal 12px verdana;
+    padding: 100px;
+}
+h2{
+	color:#0086ca;
+}
+.login-area {
+	margin-top: 50px;
+	border-radius: 10px;
+	box-shadow: 5px 5px 10px gray;
+	padding: 50px;
+}
+#transaction-area {
+	display: none;
+}
+.balance_area{
+	margin-top: 50px;
+}
+.deposit{
+	background-color: slateblue;
+}
+.withdraw{
+	background-color: lightsalmon;
+}
+.balance{
+	background-color: orange;
+}
+.commn_style{
+	margin: 0 20px;
+	color: #fff;
+	padding: 20px 40px;
+	border-radius: 10px;
+}
+#withdraw-deposit{
+	margin-top: 100px;
+}
